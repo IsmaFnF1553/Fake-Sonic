@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ExeAnimatedBG_Assets.png">
+<SubTexture name="ExeBGAnim0000" x="0" y="0" width="2260" height="1302" frameX="-194" frameY="-98" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="ExeBGAnim0001" x="0" y="1302" width="2260" height="1302" frameX="-194" frameY="-98" frameWidth="2560" frameHeight="1400" />
+<SubTexture name="ExeBGAnim0002" x="0" y="2604" width="2260" height="1302" frameX="-194" frameY="-98" frameWidth="2560" frameHeight="1400" />
+</TextureAtlas>
