@@ -1,0 +1,5 @@
+Plays static on screen.
+
+Value 1: How long the static plays for.
+
+Value 2: Name of the sound you want to use.
