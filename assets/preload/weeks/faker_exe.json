@@ -1,0 +1,40 @@
+{
+	"storyName": "EXEMerge",
+	"difficulties": "remaster",
+	"hideFreeplay": true,
+	"weekBackground": "faker_exe",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		5,
+		5,
+		51
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"faker",
+			"faker",
+			[
+				26,
+				26,
+				114
+			]
+		],
+		[
+			"black-sun",
+			"exe",
+			[
+				5,
+				5,
+				51
+			]
+		]
+	],
+	"weekName": "faker_exe"
+}
