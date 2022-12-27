@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="EXE_ICON.png">
+<SubTexture name="EXE_ICON WINDOWN0000" x="0" y="260" width="138" height="122" frameX="-7" frameY="-22" frameWidth="151" frameHeight="150" />
+<SubTexture name="EXE_ICON DOWN0000" x="138" y="260" width="138" height="122" frameX="-7" frameY="-22" frameWidth="151" frameHeight="150" />
+<SubTexture name="EXE_ICON WINIDLE0000" x="296" y="128" width="132" height="127" frameX="-10" frameY="-10" frameWidth="151" frameHeight="150" />
+<SubTexture name="EXE_ICON IDLE0000" x="138" y="130" width="138" height="129" frameX="-6" frameY="-7" frameWidth="151" frameHeight="150" />
+<SubTexture name="EXE_ICON WINLEFT0000" x="276" y="260" width="129" height="119" frameX="0" frameY="-17" frameWidth="151" frameHeight="150" />
+<SubTexture name="EXE_ICON LEFT0000" x="430" y="0" width="129" height="119" frameX="0" frameY="-17" frameWidth="151" frameHeight="150" />
+<SubTexture name="EXE_ICON WINRIGHT0000" x="0" y="0" width="148" height="130" frameX="-3" frameY="-10" frameWidth="151" frameHeight="150" />
+<SubTexture name="EXE_ICON RIGHT0000" x="148" y="0" width="148" height="130" frameX="-3" frameY="-11" frameWidth="151" frameHeight="150" />
+<SubTexture name="EXE_ICON WINUP0000" x="0" y="130" width="138" height="130" frameX="-9" frameY="-3" frameWidth="151" frameHeight="150" />
+<SubTexture name="EXE_ICON UP0000" x="296" y="0" width="134" height="128" frameX="-9" frameY="-6" frameWidth="151" frameHeight="150" />
+</TextureAtlas>
