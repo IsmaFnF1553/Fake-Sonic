@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Faker_Alt_EXE_Assets.png">
+<SubTexture name="FAKER0000" x="3064" y="2934" width="611" height="667" frameX="0" frameY="-18" frameWidth="607" frameHeight="677" />
+<SubTexture name="FAKER IDLE ALT0000" x="0" y="739" width="458" height="736" frameX="-1" frameY="-8" frameWidth="470" frameHeight="736" />
+<SubTexture name="FAKER LEFT ALT0000" x="1241" y="2934" width="700" height="707" frameX="-27" frameY="0" frameWidth="729" frameHeight="699" />
+<SubTexture name="FAKER PRETRANSFORMATION0000" x="3459" y="1451" width="432" height="723" frameX="-32" frameY="-30" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0001" x="3459" y="727" width="432" height="724" frameX="-34" frameY="-28" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0002" x="3028" y="0" width="431" height="727" frameX="-37" frameY="-26" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0003" x="2275" y="2205" width="431" height="728" frameX="-39" frameY="-25" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0004" x="458" y="739" width="418" height="736" frameX="-55" frameY="-16" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0005" x="458" y="739" width="418" height="736" frameX="0" frameY="0" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0006" x="876" y="739" width="422" height="732" frameX="-52" frameY="-20" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0007" x="1298" y="739" width="424" height="731" frameX="-51" frameY="-21" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0008" x="1981" y="0" width="424" height="731" frameX="-51" frameY="-21" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0009" x="1981" y="731" width="409" height="730" frameX="-66" frameY="-22" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0010" x="2405" y="730" width="393" height="729" frameX="-83" frameY="-23" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0011" x="3459" y="2174" width="406" height="723" frameX="-66" frameY="-28" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0012" x="0" y="0" width="395" height="739" frameX="-91" frameY="-13" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0013" x="0" y="1475" width="409" height="730" frameX="-66" frameY="-22" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0014" x="2405" y="1459" width="393" height="729" frameX="-83" frameY="-23" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0015" x="3028" y="727" width="412" height="723" frameX="-66" frameY="-28" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0016" x="395" y="0" width="395" height="739" frameX="-91" frameY="-13" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0017" x="409" y="1475" width="407" height="730" frameX="-66" frameY="-22" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0018" x="1958" y="1475" width="393" height="729" frameX="-83" frameY="-23" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0019" x="1941" y="2934" width="520" height="706" frameX="-86" frameY="-46" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0020" x="816" y="1475" width="540" height="730" frameX="-66" frameY="-22" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0021" x="0" y="2205" width="557" height="729" frameX="-83" frameY="-23" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0022" x="1356" y="1475" width="602" height="730" frameX="-66" frameY="-22" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0023" x="557" y="2205" width="594" height="729" frameX="-83" frameY="-23" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0024" x="0" y="2934" width="618" height="723" frameX="-66" frameY="-28" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0025" x="790" y="0" width="593" height="739" frameX="-91" frameY="-13" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0026" x="2405" y="0" width="623" height="730" frameX="-66" frameY="-22" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0027" x="1151" y="2205" width="606" height="729" frameX="-83" frameY="-23" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0028" x="618" y="2934" width="623" height="723" frameX="-66" frameY="-28" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0029" x="1383" y="0" width="598" height="739" frameX="-91" frameY="-13" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0030" x="1151" y="2205" width="606" height="729" frameX="0" frameY="0" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0031" x="2461" y="2934" width="603" height="706" frameX="0" frameY="0" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0032" x="2461" y="2934" width="603" height="706" frameX="0" frameY="0" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0033" x="2405" y="0" width="623" height="730" frameX="0" frameY="0" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0034" x="1151" y="2205" width="606" height="729" frameX="0" frameY="0" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0035" x="618" y="2934" width="623" height="723" frameX="0" frameY="0" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0036" x="2461" y="2934" width="603" height="706" frameX="0" frameY="0" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0037" x="2405" y="0" width="623" height="730" frameX="0" frameY="0" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0038" x="1151" y="2205" width="606" height="729" frameX="0" frameY="0" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0039" x="618" y="2934" width="623" height="723" frameX="0" frameY="0" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0040" x="1383" y="0" width="598" height="739" frameX="0" frameY="0" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0041" x="618" y="2934" width="623" height="723" frameX="0" frameY="0" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0042" x="1383" y="0" width="598" height="739" frameX="0" frameY="0" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0043" x="2461" y="2934" width="603" height="706" frameX="0" frameY="0" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0044" x="2461" y="2934" width="603" height="706" frameX="0" frameY="0" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0045" x="1151" y="2205" width="606" height="729" frameX="0" frameY="0" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER PRETRANSFORMATION0046" x="2461" y="2934" width="603" height="706" frameX="0" frameY="0" frameWidth="687" frameHeight="745" />
+<SubTexture name="FAKER RIGHT ALT0000" x="3459" y="0" width="580" height="727" frameX="-5" frameY="-23" frameWidth="605" frameHeight="742" />
+<SubTexture name="FAKER UP ALT0000" x="1757" y="2205" width="518" height="729" frameX="-33" frameY="-47" frameWidth="558" frameHeight="771" />
+</TextureAtlas>

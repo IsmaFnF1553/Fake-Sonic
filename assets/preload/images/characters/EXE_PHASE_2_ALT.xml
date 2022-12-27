@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="EXE_PHASE_2_ALT.png">
+<SubTexture name="Exe Down ALT0000" x="673" y="1459" width="1539" height="1045" frameX="-1" frameY="0" frameWidth="1536" frameHeight="1035" />
+<SubTexture name="Exe Idle ALT0000" x="0" y="1459" width="673" height="1106" frameX="0" frameY="0" frameWidth="702" frameHeight="1096" />
+<SubTexture name="Exe Right ALT0000" x="1499" y="0" width="1463" height="1359" frameX="-55" frameY="-15" frameWidth="1518" frameHeight="1366" />
+<SubTexture name="Exe Up ALT0000" x="0" y="0" width="1499" height="1459" frameX="-43" frameY="0" frameWidth="1590" frameHeight="1450" />
+<SubTexture name="Exe left ALT0000" x="2962" y="0" width="1066" height="992" frameX="-50" frameY="-11" frameWidth="1106" frameHeight="993" />
+</TextureAtlas>

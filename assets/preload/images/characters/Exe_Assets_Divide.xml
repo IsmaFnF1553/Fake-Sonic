@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Exe_Assets_Divide.png">
+<SubTexture name="Exe Down0000" x="2850" y="0" width="1002" height="786" frameX="0" frameY="-63" frameWidth="1003" frameHeight="850" />
+<SubTexture name="Exe Down0001" x="2850" y="786" width="1001" height="786" frameX="0" frameY="-63" frameWidth="1003" frameHeight="850" />
+<SubTexture name="Exe Idle0000" x="2141" y="1094" width="590" height="1032" frameX="-17" frameY="-8" frameWidth="608" frameHeight="1042" />
+<SubTexture name="Exe Right0000" x="1071" y="1094" width="1070" height="1033" frameX="-1" frameY="-2" frameWidth="1072" frameHeight="1035" />
+<SubTexture name="Exe Right0001" x="0" y="1094" width="1071" height="1034" frameX="-1" frameY="0" frameWidth="1072" frameHeight="1035" />
+<SubTexture name="Exe Up0000" x="0" y="0" width="691" height="1094" frameX="-60" frameY="0" frameWidth="796" frameHeight="1095" />
+<SubTexture name="Exe Up0001" x="691" y="0" width="691" height="1094" frameX="-60" frameY="0" frameWidth="796" frameHeight="1095" />
+<SubTexture name="Exe left0000" x="1382" y="0" width="720" height="1058" frameX="-64" frameY="0" frameWidth="935" frameHeight="1058" />
+<SubTexture name="Exe left0001" x="2102" y="0" width="748" height="1057" frameX="-55" frameY="0" frameWidth="935" frameHeight="1058" />
+</TextureAtlas>

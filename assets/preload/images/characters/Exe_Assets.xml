@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Exe_Assets.png">
+<SubTexture name="Exe Down0000" x="720" y="1428" width="1550" height="1076" frameX="-2" frameY="0" frameWidth="1519" frameHeight="1036" />
+<SubTexture name="Exe Idle0000" x="0" y="1428" width="720" height="1112" frameX="-15" frameY="-18" frameWidth="709" frameHeight="1090" />
+<SubTexture name="Exe Right0000" x="1257" y="0" width="1480" height="1378" frameX="-56" frameY="-24" frameWidth="1506" frameHeight="1364" />
+<SubTexture name="Exe Up0000" x="0" y="0" width="1257" height="1428" frameX="-43" frameY="0" frameWidth="1316" frameHeight="1389" />
+<SubTexture name="Exe left0000" x="2737" y="0" width="1052" height="1017" frameX="-44" frameY="0" frameWidth="1056" frameHeight="977" />
+</TextureAtlas>

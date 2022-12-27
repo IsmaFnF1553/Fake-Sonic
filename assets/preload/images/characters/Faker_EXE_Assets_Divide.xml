@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Faker_EXE_Assets_Divide.png">
+<SubTexture name="FAKER DOWN instance 0000" x="0" y="1426" width="475" height="629" frameX="-7" frameY="0" frameWidth="488" frameHeight="630" />
+<SubTexture name="FAKER DOWN instance 0001" x="475" y="1426" width="488" height="613" frameX="0" frameY="-14" frameWidth="488" frameHeight="630" />
+<SubTexture name="FAKER IDLE instance 0000" x="1637" y="687" width="453" height="673" frameX="0" frameY="0" frameWidth="455" frameHeight="673" />
+<SubTexture name="FAKER LEFT instance 0000" x="1637" y="0" width="710" height="687" frameX="-18" frameY="-3" frameWidth="729" frameHeight="691" />
+<SubTexture name="FAKER LEFT instance 0001" x="605" y="728" width="727" height="690" frameX="-2" frameY="0" frameWidth="729" frameHeight="691" />
+<SubTexture name="FAKER RIGHT instance 0000" x="0" y="728" width="605" height="698" frameX="0" frameY="-4" frameWidth="632" frameHeight="702" />
+<SubTexture name="FAKER RIGHT instance 0001" x="519" y="0" width="588" height="702" frameX="-39" frameY="0" frameWidth="632" frameHeight="702" />
+<SubTexture name="FAKER UP instance 0000" x="1107" y="0" width="530" height="701" frameX="0" frameY="-31" frameWidth="532" frameHeight="733" />
+<SubTexture name="FAKER UP instance 0001" x="0" y="0" width="519" height="728" frameX="-13" frameY="-5" frameWidth="532" frameHeight="733" />
+</TextureAtlas>

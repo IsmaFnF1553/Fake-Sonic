@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Ethereal_EXE.png">
+<SubTexture name="Ethereal Down0000" x="1922" y="1795" width="936" height="673" frameX="-71" frameY="-136" frameWidth="1086" frameHeight="814" />
+<SubTexture name="Ethereal Down0001" x="1066" y="2650" width="1024" height="653" frameX="-17" frameY="-155" frameWidth="1086" frameHeight="814" />
+<SubTexture name="Ethereal Down0002" x="0" y="2650" width="1066" height="654" frameX="-7" frameY="-154" frameWidth="1086" frameHeight="814" />
+<SubTexture name="Ethereal Idle0000" x="1889" y="907" width="309" height="784" frameX="0" frameY="0" frameWidth="309" frameHeight="784" />
+<SubTexture name="Ethereal Left0000" x="0" y="907" width="945" height="888" frameX="-81" frameY="-42" frameWidth="1155" frameHeight="930" />
+<SubTexture name="Ethereal Left0001" x="945" y="907" width="944" height="882" frameX="-66" frameY="-48" frameWidth="1155" frameHeight="930" />
+<SubTexture name="Ethereal Left0002" x="0" y="0" width="917" height="907" frameX="-92" frameY="-23" frameWidth="1155" frameHeight="930" />
+<SubTexture name="Ethereal Right0000" x="2622" y="864" width="908" height="853" frameX="-99" frameY="-23" frameWidth="1063" frameHeight="876" />
+<SubTexture name="Ethereal Right0001" x="942" y="1795" width="980" height="850" frameX="-67" frameY="-26" frameWidth="1063" frameHeight="876" />
+<SubTexture name="Ethereal Right0002" x="0" y="1795" width="942" height="855" frameX="-80" frameY="-21" frameWidth="1063" frameHeight="876" />
+<SubTexture name="Ethereal Up0000" x="1793" y="0" width="829" height="897" frameX="-87" frameY="-49" frameWidth="1100" frameHeight="951" />
+<SubTexture name="Ethereal Up0001" x="917" y="0" width="876" height="900" frameX="-77" frameY="-49" frameWidth="1100" frameHeight="951" />
+<SubTexture name="Ethereal Up0002" x="2622" y="0" width="916" height="864" frameX="-37" frameY="-85" frameWidth="1100" frameHeight="951" />
+</TextureAtlas>

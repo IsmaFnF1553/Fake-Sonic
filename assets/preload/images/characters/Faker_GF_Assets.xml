@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Faker_GF_Assets.png">
+	<!-- Created with Adobe Animate version 22.0.8.217 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GF Dance0000" x="0" y="0" width="431" height="717"/>
+	<SubTexture name="GF Dance0001" x="433" y="0" width="431" height="717"/>
+	<SubTexture name="GF Dance0002" x="866" y="0" width="431" height="717"/>
+	<SubTexture name="GF Dance0003" x="1299" y="0" width="431" height="717"/>
+	<SubTexture name="GF Dance0004" x="1732" y="0" width="431" height="717"/>
+	<SubTexture name="GF Dance0005" x="2165" y="0" width="431" height="717"/>
+	<SubTexture name="GF Dance0006" x="2598" y="0" width="431" height="717"/>
+	<SubTexture name="GF Dance0007" x="3031" y="0" width="431" height="717"/>
+	<SubTexture name="GF Dance0008" x="3464" y="0" width="431" height="717"/>
+	<SubTexture name="GF Dance0009" x="0" y="719" width="431" height="717"/>
+	<SubTexture name="GF Dance0010" x="433" y="719" width="431" height="717"/>
+	<SubTexture name="GF Dance0011" x="866" y="719" width="431" height="717"/>
+	<SubTexture name="GF Dance0012" x="1299" y="719" width="431" height="717"/>
+	<SubTexture name="GF Dance0013" x="1732" y="719" width="431" height="717"/>
+	<SubTexture name="GF Dance0014" x="2165" y="719" width="431" height="717"/>
+	<SubTexture name="GF Dance0015" x="2598" y="719" width="431" height="717"/>
+	<SubTexture name="GF Dance0016" x="3031" y="719" width="431" height="717"/>
+	<SubTexture name="GF Dance0017" x="3464" y="719" width="431" height="717"/>
+	<SubTexture name="GF Dance0018" x="0" y="1438" width="431" height="717"/>
+	<SubTexture name="GF Dance0019" x="433" y="1438" width="431" height="717"/>
+	<SubTexture name="GF Dance0020" x="3464" y="0" width="431" height="717"/>
+	<SubTexture name="GF Dance0021" x="3464" y="0" width="431" height="717"/>
+	<SubTexture name="GF Miss0000" x="866" y="1438" width="379" height="721"/>
+	<SubTexture name="GF Miss0001" x="866" y="1438" width="379" height="721"/>
+	<SubTexture name="GF Miss0002" x="1247" y="1438" width="379" height="721"/>
+	<SubTexture name="GF Miss0003" x="1247" y="1438" width="379" height="721"/>
+	<SubTexture name="GF Miss0004" x="1247" y="1438" width="379" height="721"/>
+	<SubTexture name="GF Miss0005" x="1247" y="1438" width="379" height="721"/>
+	<SubTexture name="GF Miss0006" x="1247" y="1438" width="379" height="721"/>
+	<SubTexture name="GF Miss0007" x="1247" y="1438" width="379" height="721"/>
+	<SubTexture name="GF Miss0008" x="1247" y="1438" width="379" height="721"/>
+	<SubTexture name="GF Miss0009" x="1247" y="1438" width="379" height="721"/>
+	<SubTexture name="GF Miss0010" x="1247" y="1438" width="379" height="721"/>
+	<SubTexture name="GF Miss0011" x="1247" y="1438" width="379" height="721"/>
+</TextureAtlas>

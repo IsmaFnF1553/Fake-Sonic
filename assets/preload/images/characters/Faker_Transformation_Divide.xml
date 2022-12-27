@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Faker_Transformation_Divide.png">
+<SubTexture name="TransformationDOWN instance 0000" x="1956" y="804" width="759" height="712" frameX="0" frameY="0" frameWidth="932" frameHeight="746" />
+<SubTexture name="TransformationDOWN instance 0001" x="0" y="1855" width="754" height="709" frameX="-166" frameY="-37" frameWidth="932" frameHeight="746" />
+<SubTexture name="TransformationLEFT instance 0000" x="1956" y="0" width="834" height="804" frameX="-115" frameY="-31" frameWidth="949" frameHeight="867" />
+<SubTexture name="TransformationLEFT instance 0001" x="575" y="1031" width="785" height="815" frameX="-42" frameY="-21" frameWidth="949" frameHeight="867" />
+<SubTexture name="TransformationRIGHT instance 0000" x="1388" y="0" width="568" height="829" frameX="0" frameY="-44" frameWidth="795" frameHeight="873" />
+<SubTexture name="TransformationRIGHT instance 0001" x="0" y="1031" width="575" height="824" frameX="-94" frameY="-49" frameWidth="795" frameHeight="873" />
+<SubTexture name="TransformationUP instance 0000" x="761" y="0" width="627" height="977" frameX="-95" frameY="-64" frameWidth="810" frameHeight="1045" />
+<SubTexture name="TransformationUP instance 0001" x="0" y="0" width="761" height="1031" frameX="-41" frameY="-12" frameWidth="810" frameHeight="1045" />
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FAKER_TRANSFORMATION.png">
+<SubTexture name="FakerTransformationDOWN instance 0000" x="0" y="2002" width="829" height="755" frameX="-75" frameY="0" frameWidth="904" frameHeight="773" />
+<SubTexture name="FakerTransformationDOWN instance 0001" x="1418" y="1064" width="856" height="772" frameX="-22" frameY="0" frameWidth="904" frameHeight="773" />
+<SubTexture name="FakerTransformationLEFT instance 0000" x="1600" y="0" width="724" height="938" frameX="-1" frameY="-3" frameWidth="725" frameHeight="941" />
+<SubTexture name="FakerTransformationLEFT instance 0001" x="0" y="1064" width="717" height="938" frameX="-5" frameY="-3" frameWidth="725" frameHeight="941" />
+<SubTexture name="FakerTransformationRIGHT instance 0000" x="717" y="1064" width="701" height="778" frameX="-99" frameY="-304" frameWidth="800" frameHeight="1083" />
+<SubTexture name="FakerTransformationRIGHT instance 0001" x="2324" y="0" width="771" height="764" frameX="-23" frameY="-317" frameWidth="800" frameHeight="1083" />
+<SubTexture name="FakerTransformationUP instance 0000" x="0" y="0" width="805" height="1064" frameX="-122" frameY="-13" frameWidth="936" frameHeight="1078" />
+<SubTexture name="FakerTransformationUP instance 0001" x="805" y="0" width="795" height="1056" frameX="-132" frameY="-21" frameWidth="936" frameHeight="1078" />
+</TextureAtlas>
