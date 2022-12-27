@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="EXE_GAMEOVER.png">
+<SubTexture name="EXE_GAMEOVER Stare0000" x="0" y="0" width="825" height="544" frameX="0" frameY="0" frameWidth="825" frameHeight="544" />
+<SubTexture name="EXE_GAMEOVER Stare0001" x="0" y="0" width="825" height="544" frameX="0" frameY="0" frameWidth="825" frameHeight="544" />
+<SubTexture name="EXE_GAMEOVER Stare0002" x="0" y="0" width="825" height="544" frameX="0" frameY="0" frameWidth="825" frameHeight="544" />
+<SubTexture name="EXE_GAMEOVER Stare0003" x="0" y="0" width="825" height="544" frameX="0" frameY="0" frameWidth="825" frameHeight="544" />
+<SubTexture name="EXE_GAMEOVER Stare0004" x="0" y="0" width="825" height="544" frameX="0" frameY="0" frameWidth="825" frameHeight="544" />
+<SubTexture name="EXE_GAMEOVER Stare0005" x="0" y="0" width="825" height="544" frameX="0" frameY="0" frameWidth="825" frameHeight="544" />
+<SubTexture name="EXE_GAMEOVER Stare0006" x="0" y="0" width="825" height="544" frameX="0" frameY="0" frameWidth="825" frameHeight="544" />
+<SubTexture name="EXE_GAMEOVER Stare0007" x="0" y="0" width="825" height="544" frameX="0" frameY="0" frameWidth="825" frameHeight="544" />
+<SubTexture name="EXE_GAMEOVER DieLmao0008" x="0" y="0" width="825" height="544" frameX="0" frameY="0" frameWidth="825" frameHeight="544" />
+<SubTexture name="EXE_GAMEOVER DieLmao0009" x="825" y="0" width="825" height="544" frameX="0" frameY="0" frameWidth="825" frameHeight="544" />
+<SubTexture name="EXE_GAMEOVER DieLmao0010" x="0" y="544" width="825" height="544" frameX="0" frameY="0" frameWidth="825" frameHeight="544" />
+<SubTexture name="EXE_GAMEOVER DieLmao0011" x="825" y="544" width="825" height="544" frameX="0" frameY="0" frameWidth="825" frameHeight="544" />
+<SubTexture name="EXE_GAMEOVER DieLmao0012" x="0" y="1088" width="825" height="544" frameX="0" frameY="0" frameWidth="825" frameHeight="544" />
+<SubTexture name="EXE_GAMEOVER DieLmao0013" x="825" y="1088" width="825" height="544" frameX="0" frameY="0" frameWidth="825" frameHeight="544" />
+<SubTexture name="EXE_GAMEOVER DieLmao0014" x="1650" y="0" width="825" height="544" frameX="0" frameY="0" frameWidth="825" frameHeight="544" />
+<SubTexture name="EXE_GAMEOVER DieLmao0015" x="1650" y="544" width="825" height="544" frameX="0" frameY="0" frameWidth="825" frameHeight="544" />
+</TextureAtlas>

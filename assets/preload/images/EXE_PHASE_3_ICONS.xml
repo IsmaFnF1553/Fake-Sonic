@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="EXE_PHASE_3_ICONS.png">
+<SubTexture name="EXE_PHASE_3_ICONS HesGonnaGetYa0000" x="583" y="352" width="129" height="174" frameX="-23" frameY="-3" frameWidth="181" frameHeight="180" />
+<SubTexture name="EXE_PHASE_3_ICONS HesGonnaGetYa0001" x="454" y="0" width="129" height="176" frameX="-23" frameY="-3" frameWidth="181" frameHeight="180" />
+<SubTexture name="EXE_PHASE_3_ICONS HesGonnaGetYa0002" x="454" y="176" width="129" height="173" frameX="-24" frameY="-3" frameWidth="181" frameHeight="180" />
+<SubTexture name="EXE_PHASE_3_ICONS HesGonnaGetYa0003" x="147" y="179" width="137" height="177" frameX="-20" frameY="-1" frameWidth="181" frameHeight="180" />
+<SubTexture name="EXE_PHASE_3_ICONS HesGonnaGetYa0004" x="284" y="179" width="129" height="177" frameX="-23" frameY="-3" frameWidth="181" frameHeight="180" />
+<SubTexture name="EXE_PHASE_3_ICONS HesGonnaGetYa0005" x="152" y="533" width="139" height="172" frameX="-21" frameY="-5" frameWidth="181" frameHeight="180" />
+<SubTexture name="EXE_PHASE_3_ICONS HesGonnaGetYa0006" x="549" y="533" width="129" height="169" frameX="-23" frameY="-2" frameWidth="181" frameHeight="180" />
+<SubTexture name="EXE_PHASE_3_ICONS HesGonnaGetYa0007" x="728" y="169" width="130" height="168" frameX="-22" frameY="-2" frameWidth="181" frameHeight="180" />
+<SubTexture name="EXE_PHASE_3_ICONS HesGonnaGetYa0008" x="420" y="533" width="129" height="170" frameX="-24" frameY="-2" frameWidth="181" frameHeight="180" />
+<SubTexture name="EXE_PHASE_3_ICONS HesGonnaGetYa0009" x="291" y="533" width="129" height="171" frameX="-25" frameY="-3" frameWidth="181" frameHeight="180" />
+<SubTexture name="EXE_PHASE_3_ICONS HesGonnaGetYa0010" x="446" y="357" width="129" height="173" frameX="-23" frameY="-2" frameWidth="181" frameHeight="180" />
+<SubTexture name="EXE_PHASE_3_ICONS HereHeCome0000" x="0" y="357" width="145" height="176" frameX="-14" frameY="-4" frameWidth="181" frameHeight="180" />
+<SubTexture name="EXE_PHASE_3_ICONS HereHeCome0001" x="145" y="357" width="153" height="176" frameX="-5" frameY="-2" frameWidth="181" frameHeight="180" />
+<SubTexture name="EXE_PHASE_3_ICONS HereHeCome0002" x="0" y="533" width="152" height="175" frameX="-22" frameY="0" frameWidth="181" frameHeight="180" />
+<SubTexture name="EXE_PHASE_3_ICONS HereHeCome0003" x="298" y="357" width="148" height="176" frameX="-3" frameY="-2" frameWidth="181" frameHeight="180" />
+<SubTexture name="EXE_PHASE_3_ICONS HereHeCome0004" x="583" y="0" width="145" height="176" frameX="-30" frameY="-2" frameWidth="181" frameHeight="180" />
+<SubTexture name="EXE_PHASE_3_ICONS HereHeCome0005" x="728" y="0" width="165" height="169" frameX="-13" frameY="-6" frameWidth="181" frameHeight="180" />
+<SubTexture name="EXE_PHASE_3_ICONS HereHeCome0006" x="0" y="0" width="162" height="179" frameX="-17" frameY="0" frameWidth="181" frameHeight="180" />
+<SubTexture name="EXE_PHASE_3_ICONS HereHeCome0007" x="307" y="0" width="147" height="178" frameX="-4" frameY="-2" frameWidth="181" frameHeight="180" />
+<SubTexture name="EXE_PHASE_3_ICONS HereHeCome0008" x="583" y="176" width="145" height="176" frameX="-14" frameY="-3" frameWidth="181" frameHeight="180" />
+<SubTexture name="EXE_PHASE_3_ICONS HereHeCome0009" x="162" y="0" width="145" height="179" frameX="-19" frameY="0" frameWidth="181" frameHeight="180" />
+<SubTexture name="EXE_PHASE_3_ICONS HereHeCome0010" x="0" y="179" width="147" height="178" frameX="-25" frameY="-1" frameWidth="181" frameHeight="180" />
+</TextureAtlas>
