@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				100
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Ethereal Idle"
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"offsets": [
+				144,
+				168
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Ethereal Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"offsets": [
+				317,
+				252
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Ethereal Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				385,
+				100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Ethereal Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				548,
+				242
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Ethereal Left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Ethereal_EXE",
+	"position": [
+		470,
+		-350
+	],
+	"healthicon": "exe",
+	"flip_x": false,
+	"healthbar_colors": [
+		34,
+		32,
+		50
+	],
+	"camera_position": [
+		-530,
+		-350
+	],
+	"sing_duration": 8,
+	"scale": 1
+}

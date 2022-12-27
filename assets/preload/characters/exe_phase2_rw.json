@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				370
+			],
+			"cameraOffset": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Exe Idle RW"
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				30,
+				0
+			],
+			"offsets": [
+				-30,
+				663
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Exe Right RW",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"offsets": [
+				384,
+				697
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Exe Up RW",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				30
+			],
+			"offsets": [
+				350,
+				310
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Exe Down RW",
+			"indices": []
+		},
+		{
+			"offsets": [
+				449,
+				252
+			],
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Exe left RW"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EXE_PHASE_2_RW",
+	"position": [
+		-200,
+		0
+	],
+	"healthicon": "exe_phase2_rw",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-300,
+		-350
+	],
+	"sing_duration": 8,
+	"scale": 1
+}

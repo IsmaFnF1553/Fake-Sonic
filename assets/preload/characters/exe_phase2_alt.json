@@ -1,0 +1,98 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"cameraOffset": [
+				0,
+				0
+			],
+			"offsets": [
+				0,
+				370
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Exe Idle ALT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				613
+			],
+			"cameraOffset": [
+				30,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Exe Right ALT"
+		},
+		{
+			"offsets": [
+				484,
+				697
+			],
+			"cameraOffset": [
+				0,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Exe Up ALT"
+		},
+		{
+			"offsets": [
+				350,
+				310
+			],
+			"cameraOffset": [
+				0,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Exe Down ALT"
+		},
+		{
+			"loop": false,
+			"cameraOffset": [
+				-30,
+				0
+			],
+			"offsets": [
+				449,
+				252
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Exe left ALT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EXE_PHASE_2_ALT",
+	"position": [
+		-200,
+		0
+	],
+	"healthicon": "exe_phase2",
+	"flip_x": false,
+	"healthbar_colors": [
+		60,
+		53,
+		75
+	],
+	"camera_position": [
+		-300,
+		-350
+	],
+	"sing_duration": 8,
+	"scale": 1
+}
